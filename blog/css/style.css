@@ -103,3 +103,7 @@ html {
       
       width:100%; max-width:4.53125rem;
   }  
+
+  template {
+ columns: 2;
+  }
